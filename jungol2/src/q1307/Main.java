@@ -1,4 +1,4 @@
-package p1307;
+package q1307;
 
 import java.util.Scanner;
 
