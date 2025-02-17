@@ -16,6 +16,7 @@ public class Main {
 		{
 			if(i%2!=0)
 			{
+				
 				for(int j=num2-1;j>=0;j--)
 				{
 					ary[i][j]=num3++;
