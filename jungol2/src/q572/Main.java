@@ -8,6 +8,7 @@ public class Main {
 		
 		int num1=sc.nextInt();
 		sc.close();
+		
 		Calculate cal=new Calculate();
 		System.out.printf("%.2f",cal.wide(num1));
 
