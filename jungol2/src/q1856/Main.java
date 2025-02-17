@@ -21,6 +21,8 @@ public class Main {
 					ary[i][j]=num3++;
 				}
 			}
+			
+			
 			else
 			{
 				for(int j=0;j<num2;j++)
